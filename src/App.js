@@ -5,9 +5,6 @@ import { Header } from './components-meesho/Header';
 import { Main } from './components-meesho/Main';
 
 import "../node_modules/bootstrap/dist/css/bootstrap.min.css"
-import { Example } from './components/AxiossExample';
-import { F1 } from './components/f1';
-import { F2 } from './components/f2';
 import { Navbar } from './components-meesho/navbar';
 import {HashRouter,Routes,Route} from "react-router-dom"; 
 import { About, Contact, Home } from './components-meesho/chunk';
